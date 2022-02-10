@@ -12,3 +12,7 @@ Modified: 12/06/21
 function button1Clicked() {
     console.log("Button 1 was clicked"); 
 }
+
+function button2Clicked() {
+    console.log("Button 2 was clicked"); 
+}
